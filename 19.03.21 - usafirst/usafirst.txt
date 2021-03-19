@@ -1,0 +1,114 @@
+19:02:07 From  Anton Eremin  to  Everyone : I think Yandex teams come to office more more
+19:02:15 From  Anton Eremin  to  Everyone : And so they cut our presence
+19:02:33 From  Polina Anisimova  to  Everyone : From April 5th
+19:02:40 From  Polina Anisimova  to  Everyone : Yandex is coming back to office
+19:02:50 From  Elena Chernovich  to  Everyone : I wonder what team is it?
+19:03:28 From  Anton Eremin  to  Everyone : This space used to be Yandex Money’s, then they dispersed and covid started so this space goes through changes on its own I guess
+19:03:40 From  Anton Eremin  to  Everyone : Well, we had our fun there
+19:04:08 From  Anton Eremin  to  Everyone : Lera looks like she has a date after this
+19:05:15 From  Jayde  to  Everyone : Good song choice! :)
+19:05:22 From  Polina Anisimova  to  Everyone : afaik Yandex is reserving about half of the office space for coworking space for those who’re not coming to office every day
+19:05:56 From  Maria Shchur  to  Everyone : Hey awesome team 🙌 thx for music
+19:06:05 From  Natalia  to  Everyone : <3
+19:06:20 From  Anton Eremin  to  Everyone : This is a camera racket
+19:06:24 From  Anton Eremin  to  Everyone : Got camera?
+19:06:27 From  Daria Borisenko-Orlowski  to  Everyone : I will, sorry, I need to get breakfast :)
+19:08:18 From  Polina Anisimova  to  Everyone : PERFORMANCE
+19:08:26 From  Polina Anisimova  to  Everyone : I’m ready for it
+19:11:38 From  Нюта Блиничева  to  Everyone : And we have some videos with competitors platforms
+19:12:45 From  Angelika Chumakova  to  Everyone : Lera’s cat!!!!!!!!!!
+19:12:50 From  Steffan Warren  to  Everyone : Launch School
+19:13:02 From  Steffan Warren  to  Everyone : I’m interested to hear from their students
+19:13:08 From  Maria Shchur  to  Everyone : ++
+19:13:30 From  Anton Eremin  to  Everyone : Steffan I mentioned Launchschool but no luck yet
+19:14:32 From  Нюта Блиничева  to  Everyone : Steffan,Anton, we’ll try to find their students
+19:14:51 From  Lera Shelegina  to  Everyone : Im registered in their Slack workspace
+19:15:50 From  Lera Shelegina  to  Everyone : It was easy to do, plenty of students there, but im not sure their policy allows to invite students for interview in their slack
+19:16:27 From  Mike Cole  to  Everyone : practicum graduates make a billion dollars a year!
+19:19:06 From  Daria Borisenko-Orlowski  to  Everyone : have we been considering ISAs?
+19:19:35 From  Mike Cole  to  Everyone : they're used in Israel, I believe
+19:19:44 From  Steffan Warren  to  Everyone : Yep
+19:19:52 From  Steffan Warren  to  Everyone : And we’re considering doing it in the US
+19:20:36 From  Richard Turner  to  Everyone : The bootcamp vs. degree thing is interesting
+19:20:59 From  Daria Borisenko-Orlowski  to  Everyone : I'm on an ISA with a bootcamp if anyone ever needs my experience with it
+19:23:24 From  Mariana Ilinova  to  Everyone : We have a tutor who has studied in DevMontain Bootcamp. Maybe he agree to share his experience there ...
+19:25:43 From  Anton Eremin  to  Everyone : Springboard use datacamp
+19:28:33 From  Anton Eremin  to  Everyone : We’re thinking about launching a few ISA cohorts. I think showing these cohorts in our main product could be a good way to send the message that we’re sure about our students’ results.
+19:30:53 From  Polina Anisimova  to  Everyone : Sounds cool, and I guess this message especially valuable (and familiar?) for US students
+19:32:24 From  Polina Anisimova  to  Everyone : So they made their own Glassdoor?
+19:32:40 From  Нюта Блиничева  to  Everyone : Sounds like that)
+19:34:55 From  Polina Anisimova  to  Everyone : I feel like we’ll experiment with online as offline  activities a lot soon
+19:35:21 From  Andrew Urodov  to  Everyone : i need a drink over zoom
+19:35:44 From  Polina Anisimova  to  Everyone : Lets schedule this
+19:36:40 From  Anton Eremin  to  Everyone : I think we did a shitton of experiments on zoom parties and such and then got bored
+19:38:47 From  Polina Anisimova  to  Everyone : Where did she get her degree?
+19:38:58 From  Anton Eremin  to  Everyone : They don’t even have code reviews god dammit
+19:39:05 From  Anton Eremin  to  Everyone : What’s practical about this
+19:40:06 From  Polina Anisimova  to  Everyone : I mean maybe her institution was just very low-level
+19:40:26 From  Anton Eremin  to  Everyone : We talk about bootcamps
+19:40:31 From  Anton Eremin  to  Everyone : Not university
+19:40:32 From  Polina Anisimova  to  Everyone : And then we could search more for those who got shitty degrees
+19:41:01 From  Anton Eremin  to  Everyone : I mean, some bootcamps don’t have code reviews, not just unis
+19:42:59 From  Anton Eremin  to  Everyone : We need learning experience so good that students would get hired right after they complete first task
+19:43:00 From  Elena Chernovich  to  Everyone : Here is the link to my research https://www.notion.so/praktikum/Findings-competitor-bootcamps-7654158046ff4461a4204392c36d96cf#7663825c38fa4601bde6b071403e800c
+19:43:23 From  Anton Eremin  to  Everyone : That would be a unique frickin value proposition
+19:44:34 From  Elena Chernovich  to  Everyone : Here is a quote to support Anton) I told to someone who used to go to the same school to the same computer science program, and now they are looking for a job and they can not find a job because they don't know what they are doing and I told them, and I was like - hey, they are like actually teaching stuff in this bootcamp, I am actually learning, and I am pretty sure if I were to find a job right now, I would get a job. And I am only half way through. I told him specifically because I know he also has a terrible degree that did not teach him anything
+19:44:41 From  Elena Chernovich  to  Everyone : About App Academy
+19:46:11 From  Anton Eremin  to  Everyone : Practicum experiment scene became so big that there’s a need for merge and acquisitions
+19:46:36 From  Нюта Блиничева  to  Everyone : :D
+19:48:04 From  Нюта Блиничева  to  Everyone : п
+19:48:20 From  Нюта Блиничева  to  Everyone : Gamification (!)
+19:49:24 From  Anton Eremin  to  Everyone : WOUF
+19:49:26 From  Anton Eremin  to  Everyone : WOUF WOUF
+19:50:00 From  Anton Eremin  to  Everyone : I really want to try first module without sprints
+19:50:05 From  Anton Eremin  to  Everyone : Launch school-style
+19:53:29 From  Richard Turner  to  Everyone : Yeah, let’s go to war with higher education!!!!
+19:53:42 From  Zach Bullard  to  Everyone : burn down the ivory tower
+19:53:44 From  Daria Borisenko-Orlowski  to  Everyone : very true
+19:53:46 From  Anton Eremin  to  Everyone : Apart from MIT and such
+19:53:50 From  Richard Turner  to  Everyone : F*** college
+19:53:59 From  Andrew Urodov  to  Everyone : wait till you get to a senior level job and there’s CS really kicks in lol
+19:54:14 From  Iuliia Fokina  to  Everyone : Our tutor does
+19:54:15 From  Richard Turner  to  Everyone : First university, next, “The system"
+19:54:17 From  Anton Eremin  to  Everyone : Lambda School goes for that message and it doesn’t work that well
+19:54:20 From  Richard Turner  to  Everyone : Burn it all down
+19:54:40 From  Daria Borisenko-Orlowski  to  Everyone : I have friends with CS degrees who work as programmers but that's mostly for data science
+19:54:43 From  Daria Borisenko-Orlowski  to  Everyone : robotics
+19:54:47 From  Mike Cole  to  Everyone : college is for monks and hunks
+19:54:51 From  Daria Borisenko-Orlowski  to  Everyone : other stuff where you need serious math
+19:54:54 From  Daria Borisenko-Orlowski  to  Everyone : not web dev
+19:55:10 From  Anton Eremin  to  Everyone : College is for getting interested in philosophy
+19:55:13 From  Richard Turner  to  Everyone : We’re anti-math now
+19:55:14 From  Anton Eremin  to  Everyone : And getting laid
+19:55:21 From  Richard Turner  to  Everyone : 420
+19:55:27 From  Richard Turner  to  Everyone : No
+19:55:33 From  Richard Turner  to  Everyone : That was just a joke
+19:55:39 From  Anton Eremin  to  Everyone : So how do we get our students laid
+19:55:44 From  Anton Eremin  to  Everyone : This could level the field
+19:55:49 From  Mike Cole  to  Everyone : practi...
+19:55:53 From  Stephen Hudson  to  Everyone : Zoom parties
+19:55:55 From  Richard Turner  to  Everyone : Yeah, bring the music
+19:55:58 From  Steffan Warren  to  Everyone : Pair programming
+19:56:06 From  Richard Turner  to  Everyone : Let’s listen to music and stare at our avatars
+19:56:21 From  Anton Eremin  to  Everyone : Looking at you Turner
+19:56:43 From  Mike Cole  to  Everyone : 4'33"
+19:56:44 From  Richard Turner  to  Everyone : Camera on
+19:56:54 From  Zach Bullard  to  Everyone : The silence makes it more intimate
+19:57:05 From  Richard Turner  to  Everyone : I made the strongest coffee ever
+19:57:09 From  Richard Turner  to  Everyone : Love that music
+19:57:21 From  Richard Turner  to  Everyone : I drink out of a творог jar
+19:57:29 From  Richard Turner  to  Everyone : Good coffee mug
+19:57:47 From  Andrew Urodov  to  Everyone : hahaha
+19:57:53 From  Andrew Urodov  to  Everyone : thanks everyone!
+19:57:59 From  Angelika Chumakova  to  Everyone : coffee+творог
+19:58:00 From  Polina Anisimova  to  Everyone : Have to go! Thanks everybody <3
+19:58:02 From  Angelika Chumakova  to  Everyone : New recipe
+19:58:05 From  Richard Turner  to  Everyone : I do my part to recycle
+19:58:07 From  Natalia  to  Everyone : thanks <3
+19:58:16 From  Anna Makeeva  to  Everyone : Thanks!
+19:58:23 From  Ramil  to  Everyone : Thanks! Bye-bye
+19:58:24 From  Нюта Блиничева  to  Everyone : Thanks you guys!
+19:58:32 From  Victoria Reshetnikova  to  Everyone : have a nice evening or day everyone!
+19:58:36 From  Anton Eremin  to  Everyone : Thank you goof people!
+19:58:36 From  Zach Bullard  to  Everyone : Have a good one everybody!
+19:58:42 From  Daria Borisenko-Orlowski  to  Everyone : thank you!
