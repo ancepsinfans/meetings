@@ -1,0 +1,107 @@
+19:05:14 From  Practicum Yandex  to  Everyone : Where is music
+19:05:30 From  Practicum Yandex  to  Everyone : Im joking
+19:05:50 From  Mike Cole  to  Everyone : Christopher Hitchens and Richard Dawkins
+19:06:33 From  Lera Shelegina  to  Everyone : Dawkins birthday is tomorrow
+19:08:03 From  Lera Shelegina  to  Everyone : I wonder sometimes who is going to join pink muthefukka or dick laurent
+19:08:15 From  Anton Eremin  to  Everyone : Me too
+19:08:36 From  pink muthafukka  to  Everyone : it’s always a surprise even for me
+19:08:42 From  Lera Shelegina  to  Everyone : Im glad pink muthefukka today with us
+19:08:50 From  pink muthafukka  to  Everyone : yay
+19:09:07 From  Zach Bullard  to  Everyone : "Dick Laurent is dead."
+19:09:26 From  pink muthafukka  to  Everyone : finally someone got the reference
+19:12:44 From  Zach Bullard  to  Everyone : Now we need to be serious.
+19:12:54 From  Mike Cole  to  Everyone : no fuxin around
+19:13:52 From  Anton Eremin  to  Everyone : You can smell the staleness
+19:14:10 From  Zach Bullard  to  Everyone : stale bread is still just croutons man
+19:14:49 From  Anton Eremin  to  Everyone : What is stale CR then
+19:15:45 From  Anton Eremin  to  Everyone : I love that I just learn about that
+19:15:55 From  Anton Eremin  to  Everyone : Learned*
+19:16:37 From  Anton Eremin  to  Everyone : Guerrilla product development
+19:17:00 From  Zach Bullard  to  Everyone : why is dpp so bad
+19:17:11 From  Anton Eremin  to  Everyone : 1st project
+19:17:15 From  Anton Eremin  to  Everyone : 1st sprint
+19:23:09 From  Zach Bullard  to  Everyone : On the whole, Lera, how would you evaluate the process of letting that one cohort be self-paced? Was that useful? Was it more difficult on the guidance side?
+19:24:00 From  Anton Eremin  to  Everyone : I’m not Lera but I think that it’s not hard at all
+19:25:49 From  Oksana Matveenko  to  Everyone : Deepti is very active in career accel. as well and very responsive
+19:28:41 From  Lera Shelegina  to  Everyone : CR link: https://www.notion.so/praktikum/March-25-CR-82da731c1e1441e19fd35457aa0c324c
+19:30:04 From  pink muthafukka  to  Everyone : something’s up with the sound
+19:30:12 From  Mike Cole  to  Everyone : lo-fi
+19:30:14 From  Anton Eremin  to  Everyone : It comes and goes
+19:30:25 From  pink muthafukka  to  Everyone : just like andrey’s dad
+19:30:31 From  Zach Bullard  to  Everyone : зинг!
+19:30:32 From  Anton Eremin  to  Everyone : No he just went
+19:30:47 From  Anton Eremin  to  Everyone : By the way we miss Andrey, that’s what’s up
+19:30:54 From  Anton Eremin  to  Everyone : I like this status
+19:30:57 From  Anton Eremin  to  Everyone : Just ‘No’
+19:31:16 From  pink muthafukka  to  Everyone : andrey comes and goes, just like the sound here
+19:35:22 From  Zach Bullard  to  Everyone : ^ ...and just like pink
+19:35:46 From  Mike Cole  to  Everyone : count her 0.75
+19:39:02 From  Mike Cole  to  Everyone : statistics refactoring is underway!
+19:39:16 From  Anton Eremin  to  Everyone : ++
+19:39:37 From  Anton Eremin  to  Everyone : I told you Yenya will bail
+19:46:55 From  Lera Shelegina  to  Everyone : Oni raskatyvayt sobstvennyu sredu
+19:46:57 From  Anton Eremin  to  Everyone : So they set up their own environment?
+19:47:01 From  Anton Eremin  to  Everyone : Don’t they though?
+19:47:06 From  Oksana Matveenko  to  Everyone : deploying 0
+19:47:13 From  Zach Bullard  to  Everyone : This is a repeated problem
+19:47:20 From  Anton Eremin  to  Everyone : They should work on their machine for sure, no?
+19:47:28 From  Zach Bullard  to  Everyone : Yup
+19:47:52 From  Anton Eremin  to  Everyone : I’m confused
+19:48:28 From  Zach Bullard  to  Everyone : In our program, I don't think we do enough to show students how to set up Jupyter environs on their own machine. The're pretty reliant on our platform
+19:48:58 From  Anton Eremin  to  Everyone : So this to be fixed for sure
+19:49:27 From  Zach Bullard  to  Everyone : yup. I want to put together a short course on all this. Setting up git/GitHub/jupyter etc
+19:49:38 From  Zach Bullard  to  Everyone : Web actually has the git stuff ready, we can steal it
+19:49:44 From  Sophie Miheeva  to  Everyone : we had these instructions btw
+19:50:06 From  Zach Bullard  to  Everyone : You're right, Sofa, but I don't think it's getting through their thick skulls
+19:50:18 From  Sophie Miheeva  to  Everyone : gosh
+19:50:34 From  Sophie Miheeva  to  Everyone : being thick is ok, even if it’s skull
+19:50:44 From  Mike Cole  to  Everyone : https://www.notion.so/Data-School-Knowledge-Base-adff59627de34a4f8cb31afd40035c8e#22273156ec7c44f7b1d0f17fbe8a831f
+19:51:07 From  Anton Eremin  to  Everyone : Lets work some more on them and maybe expand it further
+19:51:53 From  pink muthafukka  to  Everyone : did i hear a line from panic at the disco
+19:52:33 From  Zach Bullard  to  Everyone : Yeah, Mike, I know it's here. but it seems we aren't properly connecting a student to this information
+19:52:45 From  Mike Cole  to  Everyone : right, but this is raw material to use
+19:52:51 From  Zach Bullard  to  Everyone : ahhh
+19:53:01 From  Zach Bullard  to  Everyone : I see
+19:53:14 From  Mike Cole  to  Everyone : there's even a rough version of a video...will send
+19:53:21 From  Zach Bullard  to  Everyone : oh that's good
+19:55:54 From  Sophie Miheeva  to  Everyone : rough videos
+19:56:38 From  Anton Eremin  to  Everyone : Didn’t Volodya do something more for environment tutorials and stuff?
+19:57:14 From  Lera Shelegina  to  Everyone : We will publish it in students notion
+19:57:35 From  Zach Bullard  to  Everyone : cool :)
+19:58:28 From  Zach Bullard  to  Everyone : "There is hope" -Mike
+19:58:43 From  pink muthafukka  to  Everyone : i dont wanna share
+19:58:45 From  Sophie Miheeva  to  Everyone : no news yet, stay tuned
+19:58:51 From  Andrey Melnichenko  to  Everyone : I've found my dad on Facebook
+19:59:00 From  Zach Bullard  to  Everyone : SHOCK
+19:59:47 From  Andrey Melnichenko  to  Everyone : But this time tables have turned - I chose not at send him a friend request.
+20:00:11 From  Zach Bullard  to  Everyone : Shouldn't you request and then ghost him
+20:00:12 From  Zach Bullard  to  Everyone : ?
+20:00:39 From  Andrey Melnichenko  to  Everyone : I don't wanna do w/ him what he did w/ my mother
+20:01:07 From  Zach Bullard  to  Everyone : that would be incestuous
+20:01:39 From  Andrey Melnichenko  to  Everyone : Well, I'm a bitch, so that's fine
+20:04:37 From  Mike Cole  to  Everyone : I'm your Mike
+20:04:43 From  Anton Eremin  to  Everyone : Your Mike is going to Colorado
+20:04:43 From  pink muthafukka  to  Everyone : oh no
+20:04:56 From  Mike Cole  to  Everyone : Mike Colonado
+20:05:13 From  pink muthafukka  to  Everyone : seems like we gonna be here all night...
+20:05:14 From  Anton Eremin  to  Everyone : Mike Colonenado
+20:05:37 From  Andrey Melnichenko  to  Everyone : https://www.notion.so/praktikum/USA-Landing-Structure-1a261a37e5654c1394f5b25cdc5b42be
+20:05:39 From  Anton Eremin  to  Everyone : Is it just me or our English is especially bad tonight
+20:05:49 From  Lera Shelegina  to  Everyone : eblox
+20:05:49 From  Anton Eremin  to  Everyone : Alena you can go if you wish though
+20:05:55 From  pink muthafukka  to  Everyone : no
+20:05:56 From  Anton Eremin  to  Everyone : What is eblogs
+20:06:01 From  pink muthafukka  to  Everyone : i ll stay
+20:06:24 From  Mike Cole  to  Everyone : еблogs
+20:06:50 From  Lera Shelegina  to  Everyone : Andrey is the best
+20:06:56 From  Andrey Melnichenko  to  Everyone : Yes, he is
+20:07:08 From  pink muthafukka  to  Everyone : as opposed to his dad
+20:07:46 From  Anton Eremin  to  Everyone : Opposed to dad =  ьаь
+20:07:56 From  Andrey Melnichenko  to  Everyone : Oh, is Mike a coloradian?
+20:08:05 From  pink muthafukka  to  Everyone : let’s call it a call
+20:08:13 From  Andrey Melnichenko  to  Everyone : Daddy, please don't leave
+20:08:17 From  Andrey Melnichenko  to  Everyone : REST IN PISS
+20:08:25 From  Anton Eremin  to  Everyone : Coloroadian жук
+20:08:32 From  Mike Cole  to  Everyone : time to say gooooodbyyyyye
+20:09:00 From  pink muthafukka  to  Everyone : stop
+20:09:04 From  Andrey Melnichenko  to  Everyone : For Russian картофель it's better when Coloroadian жук leaves
