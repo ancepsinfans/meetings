@@ -1,0 +1,93 @@
+15:21:31 From  Anton Eremin  to  Everyone : Щас наймём опс-менеджера, начнём продакта искать))
+15:21:37 From  Andrey Melnichenko  to  Everyone : И Леры!!!!
+15:23:16 From  Anton Eremin  to  Everyone : Тишина
+15:23:21 From  Anton Eremin  to  Everyone : Значит не слушали
+15:23:27 From  Vladislav Kozhemiakin  to  Everyone : На второй год всех
+15:23:29 From  Andrey Melnichenko  to  Everyone : Надо было квиз в конце делеать
+15:23:34 From  Vladislav Kozhemiakin  to  Everyone : Кроме Батыра
+15:23:37 From  Vladislav Kozhemiakin  to  Everyone : +
+15:24:28 From  Aleksey Makarov  to  Everyone : А почему у американцев меньше вовлеченность?
+15:24:32 From  Vladislav Kozhemiakin  to  Everyone : + к вопросу
+15:24:38 From  Vladislav Kozhemiakin  to  Everyone : С чем связано?
+15:25:31 From  Kostya  to  Everyone : тут больше вопрос почему в sbe такая вовлеченность. скорее всего из-за отбора. опасения не вписаться в дедлайн и вылететь
+15:26:44 From  Anton Eremin  to  Everyone : Ну да, ты не сколько клиент, сколько счастливчик
+15:27:00 From  Kostya  to  Everyone : скорее всего есть какое-то магическое число студентов в когорте при котором они друг друга мотивируют и машинка начинает ехать
+15:27:13 From  Anton Eremin  to  Everyone : Но ребята из лямбды говорят что там очень много усилий на мотивацию и адаптацию к студентам
+15:27:13 From  Batyr Tanatarov  to  Everyone : +++
+15:27:39 From  Anton Eremin  to  Everyone : То есть я бы не исключал историю что американцы в целом во многом ну вот такие, пресыщенные
+15:28:07 From  Andrey Melnichenko  to  Everyone : Я бы уточнил, что когда говорим американцы, имеем в виду 50-60% американцев.
+15:28:18 From  Anton Eremin  to  Everyone : ?
+15:28:20 From  Andrey Melnichenko  to  Everyone : Это я к Антону выше.
+15:29:03 From  Kostya  to  Everyone : в израильских и немецких когортах много очень эмигрантов. скорее всего это тоже влияет, они прям голодные и заинтересованные
+15:29:13 From  Andrey Melnichenko  to  Everyone : А у веба те же проблемы?
+15:29:17 From  lera shelegina  to  Everyone : да
+15:29:25 From  Andrey Melnichenko  to  Everyone : Уф
+15:30:48 From  Марина Левушкина  to  Everyone : И два куратора на когорту??
+15:30:59 From  Batyr Tanatarov  to  Everyone : нет, уже не два
+15:31:11 From  Andrey Melnichenko  to  Everyone : Число значительную роль играет всё равно.Всегда же в группе N% — активные и вовлечённые, N — пойдут за ними, а N — сидят и не выходят на свет. Ну и на бОльшем масштабе пропорция та же, но людей больше. Вот и заметнее все эффекты.
+15:31:19 From  lera shelegina  to  Everyone : Мы уже давно двух кураторов не ставим, да
+15:31:46 From  Andrey Melnichenko  to  Everyone : А когда из 7 студентов 1-2 активничают, остальным сложнее подкинуться и стать тоже активными.
+15:34:13 From  Титова Елизавета  to  Everyone : блин, есть классный видос на тему про которую говорит Андрей. Если найду - кину))
+15:34:14 From  Kostya  to  Everyone : Андрей, есть какие-то исследования из российских когорт какой баланс между этими тремя группами студентов?
+15:34:42 From  Anton Eremin  to  Everyone : Насчёт того, что 2/3 еды успели — был бы с вами Лёша Макаров, всю еду бы закончили
+15:34:58 From  Aleksey Makarov  to  Everyone : =)
+15:35:14 From  Kostya  to  Everyone : если знать какой процент активных и абсолютное значение активных студентов для начала движухи то будем знать минимальное значение для размера когорты
+15:35:37 From  Vladislav Kozhemiakin  to  Everyone : Пытался войти в миро - не получалось. Спустя 30 секунд и 5 попытки понял, что ввожу datacamp2021
+15:35:44 From  Титова Елизавета  to  Everyone : ахаххв
+15:35:45 From  Andrey Melnichenko  to  Everyone : У меня — нет. У меня сейчас только наблюдения и теоретические модели, которые описывают такие распределения — по роли в команде и групповую динамику.
+15:35:47 From  Vladislav Kozhemiakin  to  Everyone : DataCamp блин)
+15:36:00 From  Титова Елизавета  to  Everyone : мыслепреступление
+15:36:05 From  Andrey Melnichenko  to  Everyone : Но я бы это поисследовал
+15:36:08 From  Титова Елизавета  to  Everyone : произошло
+15:36:34 From  Anton Eremin  to  Everyone : datacampticum2021
+15:36:37 From  Andrey Melnichenko  to  Everyone : Спрашивалка
+15:36:47 From  Andrey Melnichenko  to  Everyone : Хотя это слово, кажется, делает только хуже
+15:38:01 From  Batyr Tanatarov  to  Everyone : thanks Zack!
+15:39:27 From  Kostya  to  Everyone : можно кураторам когорт дать таск закрасить своих студентов в цвета трёх групп ( с примерным определением каждой группы) и довольно быстро получить расклад. если у многих кураторов похожие цифры в процентах это уже закономерность
+15:39:53 From  Andrey Melnichenko  to  Everyone : Да, согласен. Лера, давай сделаем.
+15:39:57 From  Vladislav Kozhemiakin  to  Everyone : Можем ретроспективно посмотреть сколько done, сколько незакрытых проектов? По ощущениям, на сколько мы довольны сами результатами Q в контенте?
+15:40:07 From  Andrey Melnichenko  to  Everyone : В рамках стрима «Понять наших студентов»
+15:40:19 From  lera shelegina  to  Everyone : Как говорится скажи мне три самых главных слова (Лера, давай сделаем)
+15:40:26 From  Vladislav Kozhemiakin  to  Everyone : )
+15:40:29 From  Batyr Tanatarov  to  Everyone : )
+15:40:29 From  lera shelegina  to  Everyone : Сделаем
+15:40:30 From  Vladislav Kozhemiakin  to  Everyone : Лера, покажи котов
+15:40:44 From  Andrey Melnichenko  to  Everyone : Валерия, давайте осуществим.
+15:41:08 From  lera shelegina  to  Everyone : Мы завели поле статус в списках студентов
+15:41:13 From  lera shelegina  to  Everyone : Там есть активные и не активные и всякие
+15:41:19 From  Andrey Melnichenko  to  Everyone : Уже есть?
+15:41:19 From  lera shelegina  to  Everyone : Попрошу всех заполнить и там посчитаем
+15:41:25 From  lera shelegina  to  Everyone : Не у всех заполнено
+15:41:30 From  Kostya  to  Everyone : в российских когортах тоже?
+15:41:51 From  Batyr Tanatarov  to  Everyone : в рф мы так пока делили студентов
+15:42:00 From  Andrey Melnichenko  to  Everyone : Супер, спасибо. Давай попросим сегодня-завтра заполнить, чтобы в среду посмотреть.
+15:42:01 From  Batyr Tanatarov  to  Everyone : Не делили)
+15:42:16 From  Vladislav Kozhemiakin  to  Everyone : А есть вакансия?
+15:42:42 From  Kostya  to  Everyone : тут как раз интересно посмотреть в первую очередь в местах где есть большие когорты (РФ, Израиль, Германия)
+15:42:45 From  Vladislav Kozhemiakin  to  Everyone : Отозвал вопрос
+15:42:55 From  Vladislav Kozhemiakin  to  Everyone : Половина Андрея
+15:43:13 From  Andrey Melnichenko  to  Everyone : А Андрей живёт только с одной половиной (мозга) уже 26 лет!
+15:43:41 From  Andrey Melnichenko  to  Everyone : Батыр, можете по РФ это же заполнить?
+15:44:19 From  Batyr Tanatarov  to  Everyone : да, можем, давай подробнее в личке обсудим
+15:44:55 From  lera shelegina  to  Everyone : Мне казалось что вроде в рф у девчонок в списках тоже статусы есть
+15:45:02 From  lera shelegina  to  Everyone : Но ето не точно
+15:45:09 From  Batyr Tanatarov  to  Everyone : статусы это про академы больше
+15:47:42 From  Andrey Melnichenko  to  Everyone : А, давайте уже ещё общий статус по когортам добавим — 1) насколько они в целом вовлекаются (в чатах, на вебинары ходят и там взаимодействуют, вопросы задают)2) что мы знаем об их перфомансе учебном
+15:47:52 From  Andrey Melnichenko  to  Everyone : Это к предыдущему
+15:48:56 From  Kostya  to  Everyone : есть возможность дать несколько проектов пасеки израильским выпускникам?
+15:49:36 From  Kostya  to  Everyone : 35 это включая бета тестеров?
+15:50:02 From  Vladislav Kozhemiakin  to  Everyone : Мне кажется, что есть, не вижу блокеров
+15:50:47 From  Andrey Melnichenko  to  Everyone : Мне послышалось «Начали делать смоки».
+15:51:08 From  Andrey Melnichenko  to  Everyone : Представил, как на общей встрече вся команда США делает смоки айз.
+15:51:32 From  lera shelegina  to  Everyone : Начали делать смоки и использовать хайлайтер
+15:52:25 From  Andrey Melnichenko  to  Everyone : Чтобы подчеркнуть свои RTB и студенты нас не бросали.
+15:52:58 From  Andrey Melnichenko  to  Everyone : Оля, я тебе тогда напишу в Слаке про разметку по активности студентов Израиля и Германии.
+15:54:25 From  Olga Soloveva  to  Everyone : да, конечно
+16:00:06 From  Andrey Melnichenko  to  Everyone : Эта встреча = «Обсуждаем оценку гипотез по основным сегментам студентов в DA и DS»?
+16:00:22 From  Aleksey Makarov  to  Everyone : Да
+16:00:27 From  Anton Eremin  to  Everyone : Кул
+16:00:36 From  Andrey Melnichenko  to  Everyone : Буду в Тиндере просить показать дашборды.
+16:00:41 From  Anton Eremin  to  Everyone : Пора бежать, плюсую про дашборды
+16:00:50 From  Andrey Melnichenko  to  Everyone : Так у меня, конечно, CR точно станет 0%
+16:00:50 From  Anton Eremin  to  Everyone : Всем поки
+16:00:54 From  Anton Eremin  to  Everyone : Помогите даше…

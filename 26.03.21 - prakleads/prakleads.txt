@@ -1,0 +1,125 @@
+11:05:11 From  Olga A. Gubina  to  Everyone : хочется услышать про опыт, у меня появляется сейчас команда, начинаю с 0
+11:05:43 From  Dionisio Garsia  to  Everyone : приветы
+11:05:48 From  Aleksandr Tatarintsev  to  Everyone : приветы
+11:05:53 From  Anton Eremin  to  Everyone : дарова
+11:05:59 From  Simon Cheburashkin  to  Everyone : здарова
+11:06:02 From  Olga A. Gubina  to  Everyone : банкет после потока говна
+11:06:03 From  Elena Oborina  to  Everyone : Поток говна и продолжение банкета
+11:06:05 From  Elena Oborina  to  Everyone : обожаю
+11:06:26 From  Anton Eremin  to  Everyone : Хочется просто сделать чтобы все всем закинули опросы, а остальные все их заполнили, и потом поговорить вместе с каждым своим про это
+11:06:54 From  Anton Eremin  to  Everyone : Потому что эта базовая вещь уже очень хорошо работает, и пока для своей команды хочется даже не называть это ревью, просто точка сборка
+11:06:57 From  Anton Eremin  to  Everyone : сборки
+11:07:19 From  Максим Курепов  to  Everyone : Хочется узнать про тригеры
+11:07:21 From  Olga Zvereva  to  Everyone : Про Антонимность/не анонимность
+11:07:22 From  Andrew Silin  to  Everyone : Мне нравится словосочетание “коммуникационное ревью”
+11:07:27 From  Максим Курепов  to  Everyone : триггеры*
+11:08:52 From  Anton Eremin  to  Everyone : Я вот что скажу, хочется встречу на 4 часа «все заполняют ОС друг на друга», потому что простите, но я факаплю заполнение ревью, которые прилетают на почту, или кто-то просит в личке без напоминания
+11:09:15 From  Simon Cheburashkin  to  Everyone : записывай как задачу, ставь себе слот в календаре
+11:10:05 From  elena-ch19  to  Everyone : (?) хочется сформировать ожидания: когда ждать +к зп, когда - премию, когда +грейд. это разные вещи. 
+11:10:35 From  Наталия Шапошникова  to  Everyone : Сформулированные цели
+11:10:37 From  Artem Isakin  to  Everyone : изначальные цели и понимание их достижения
+11:11:05 From  Иосиф Фурман  to  Everyone : Ритм продуктовых команд и целей, как результат, больше привязан к запускам. А не полугодиям
+11:11:29 From  Anton Eremin  to  Everyone : Их десятки и сорян, но мне некогда всё записывать, Семён) хочу помощь, у меня лапки
+11:11:49 From  Максим Курепов  to  Everyone : Семён, дай мне тоже какой-нибудь совет плз
+11:11:54 From  Максим Курепов  to  Everyone : хорошие даёшь
+11:12:00 From  Simon Cheburashkin  to  Everyone : ну это системная проблема) тебе нужен кризис-менеджер
+11:12:10 From  Anton Eremin  to  Everyone : Макс, бросай курить
+11:12:13 From  Simon Cheburashkin  to  Everyone : Макс, тебе нужен духовный наставник
+11:12:17 From  Vladislav Kozhemiakin  to  Everyone : Как-то раз я писал ОС на 112 человек. На это ушло 3 суток (2 выходных и рабочий день))
+11:12:23 From  Максим Курепов  to  Everyone : курить бросил уже
+11:12:30 From  Anton Eremin  to  Everyone : Тогда начинай курить
+11:12:44 From  Максим Курепов  to  Everyone : Антона не возьму духовным наставником
+11:12:52 From  Simon Cheburashkin  to  Everyone : Бери Антона
+11:12:54 From  Simon Cheburashkin  to  Everyone : Мой совет
+11:13:11 From  Anton Eremin  to  Everyone : Видите как я эффективно расправляюсь с коммитментами
+11:13:29 From  Maria Shchur  to  Everyone : Фантастика
+11:15:18 From  Максим Курепов  to  Everyone : я хз, не вижу ценности
+11:15:57 From  Максим Курепов  to  Everyone : (если ревью исходит сверху)
+11:16:23 From  Баранова Ольга  to  Everyone : обратная связь окрыляет )
+11:16:26 From  Anton Eremin  to  Everyone : Это возможность для разговора и обратной связи, которым иначе нет места и времени
+11:17:31 From  Olga A. Gubina  to  Everyone : но это уже кажется, что про перфоманс
+11:20:44 From  Anton Eremin  to  Everyone : Мне кажется материальные можно отложить до следующего цикла
+11:21:03 From  Anton Eremin  to  Everyone : Пока бы выровняться по-человечески
+11:21:23 From  Anton Eremin  to  Everyone : Ооо Семён твой враг снова в деле
+11:21:26 From  Vladislav Kozhemiakin  to  Everyone : Это про след.цикл, безусловно
+11:21:26 From  Simon Cheburashkin  to  Everyone : кбк
+11:21:28 From  Simon Cheburashkin  to  Everyone : ага
+11:22:17 From  Vladislav Kozhemiakin  to  Everyone : Я тут продолбал, что мы накидываем только про коммуникационное ревью
+11:22:22 From  Anton Eremin  to  Everyone : А где взять бланковую гуглформу с вопросами?
+11:22:32 From  Anton Eremin  to  Everyone : Для ревью
+11:22:45 From  Aleksandr Tatarintsev  to  Everyone : спросим)
+11:23:23 From  Иосиф Фурман  to  Everyone : И выявление токсик людей еще
+11:23:51 From  Максим Курепов  to  Everyone : ))00)0
+11:24:17 From  Dionisio Garsia  to  Everyone : я - токсик
+11:24:21 From  Dionisio Garsia  to  Everyone : чо выявлять
+11:24:24 From  Simon Cheburashkin  to  Everyone : ты то да
+11:24:26 From  Anna Akhremenko  to  Everyone : +
+11:24:26 From  Elena Oborina  to  Everyone : Тебя выявит ревью
+11:24:28 From  Simon Cheburashkin  to  Everyone : но кто твои подельники 
+11:24:31 From  Simon Cheburashkin  to  Everyone : сдай их
+11:24:32 From  Иосиф Фурман  to  Everyone : Ну вдруг кто-то еще не в курсе
+11:24:39 From  Максим Курепов  to  Everyone : Дионисио, хватит токсичить
+11:24:39 From  Aleksandr Tatarintsev  to  Everyone : спасибо за инфу
+11:27:54 From  Anton Eremin  to  Everyone : А другой из ответов — затем
+11:28:11 From  Anton Eremin  to  Everyone : Это я напоминаю что я подельник дионисио
+11:28:13 From  Максим Курепов  to  Everyone : без пиздеца не получается — не получается без пиздеца
+11:28:21 From  Иосиф Фурман  to  Everyone : Ахах, так и задумано
+11:28:38 From  Anton Eremin  to  Everyone : Макс, я не понял
+11:29:48 From  Anton Eremin  to  Everyone : Мне кажется это не отменяет регулярных сессий рефлексий, когда ОС накопилось достаточно
+11:30:17 From  Anton Eremin  to  Everyone : То есть говорить можно сразу, но потом рефлексировать всё сразу оптом тоже норм
+11:31:50 From  Elena Oborina  to  Everyone : Так, а я прослушала, эту неанон обратную связь оставляют все сотрудники друг другу, или сотрудники Лиду, или лид сотрудникам?
+11:33:12 From  Elena Oborina  to  Everyone : Всё, понятно!
+11:35:05 From  Aleksey Makarov  to  Everyone : А можно после диалога показывать сотруднику детализированную обратную связь анонимно?
+11:35:24 From  Anton Eremin  to  Everyone : Маркетинг делает не анонимно и это норм мне кажется
+11:35:28 From  Aleksandr Tatarintsev  to  Everyone : Леш, увидел)
+11:37:23 From  Максим Курепов  to  Everyone : алкоголзм не одобряем, кстати
+11:37:32 From  Максим Курепов  to  Everyone : алкоголизм*
+11:37:47 From  Максим Курепов  to  Everyone : извините, я слишком много выпил за свою жизнь, чтобы писать без опечаток
+11:38:29 From  Баранова Ольга  to  Everyone : Коммуникационное ревью отличается от MVP ревью, тем что мы раскатываем его на всех, но без насилия. А какие еще отличия? 
+11:38:44 From  Aleksandr Tatarintsev  to  Everyone : +
+11:39:16 From  Aleksey Makarov  to  Everyone : А MVP раскатывали с насилием? 
+11:39:27 From  Баранова Ольга  to  Everyone : MVP по желанию 
+11:39:54 From  Максим Курепов  to  Everyone : кто ответственен за проведение ревью — функциональный или продуктовый лид?
+11:39:59 From  Alexander Stupnikov  to  Everyone : При этом как это соотносится с ревью для белобейджевых? Как параллельная система?
+11:40:21 From  Иосиф Фурман  to  Everyone : А какое-то минимальное количество отзывов мы вводим?
+11:41:14 From  Настя Фат  to  Everyone : К сожалению, не у всех есть доступы
+11:42:29 From  Simon Cheburashkin  to  Everyone : белобейджевые вышли из чата
+11:42:54 From  Anton Eremin  to  Everyone : Ну мне кстати форма наша нравится больше
+11:42:56 From  Anton Eremin  to  Everyone : да
+11:42:57 From  Баранова Ольга  to  Everyone : Яндексовая фитбэчница сухая 
+11:43:03 From  Anton Eremin  to  Everyone : Фидбэчница сакс
+11:43:03 From  elena-ch19  to  Everyone : о да, каждый раз страдаю от яндексовой
+11:43:09 From  Баранова Ольга  to  Everyone : Наша намного круче и полезнее 
+11:43:25 From  Elena Oborina  to  Everyone : Саша Ступников вышел из чата
+11:45:23 From  Simon Cheburashkin  to  Everyone : а в большом яндексе не взрослые люди?)
+11:46:42 From  Olga Zvereva  to  Everyone : А если все же в форме не бережно написана часть обратной связи - всё равно показываем полностью, просто комментируем устно эту часть подробно и сглаживаем , так?
+11:46:52 From  Simon Cheburashkin  to  Everyone : если практикум планирует стать юнитом, то у нас все равно будет яндексовое ревью. так может будем сразу привыкать к тому, с чем придется работать? или мы не планируем стать юнитом?
+11:47:07 From  Olga Zvereva  to  Everyone : А, вот, спасибо
+11:47:50 From  Баранова Ольга  to  Everyone : Когда можно  проводить перфоманс ревью? - в случае, если есть запрос- и массово через полгода, так?
+11:47:54 From  Anton Eremin  to  Everyone : Семён, мы планируем стать юнитом, но не планируем заводить всех на белые бейджи :)
+11:48:15 From  Andrew Silin  to  Everyone : мы планируем стать пиратским юнитом и задисраптить яндексовое ревью
+11:48:19 From  Simon Cheburashkin  to  Everyone : такси стайл!
+11:48:29 From  Simon Cheburashkin  to  Everyone : водители не сотрудники яндекса!
+11:48:35 From  Simon Cheburashkin  to  Everyone : мы предоставляем информационные услуги
+11:48:36 From  Anton Eremin  to  Everyone : У Миши в каком-то интервью даже была фраза, что в Практикуме через 5 лет будет 300 человек и десять тыщ проектных сотрудников хаха
+11:51:18 From  Anton Eremin  to  Everyone : Вощем всё понятно, у нас откликнулось человек 5 желающих поучаствовать уже, так что будем пробовать. Хочется: а) форму б) короткий видос для руководителя, как читать самому и помогать читать+интерпретировать с сотрудником ОС, ц) может чёткий алгоритм или прям «марафон» ревью, чтобы не приходилось думать, что уже сделано, все ли оставили ОС, когда надо напомнить и так далее.
+11:51:45 From  Andrew Silin  to  Everyone : + к Антону
+11:51:53 From  Anton Eremin  to  Everyone : Спасибо за встречу и разжёванное объяснение всего, круто, что мы так осознанно и аккуратно движемся к ревью!
+11:52:04 From  Andrew Silin  to  Everyone : + к Антону
+11:52:18 From  Anton Eremin  to  Everyone : :))) so long and thanks for all the fish!
+11:52:20 From  Olga Zvereva  to  Everyone : ++ к Антону
+11:53:08 From  Настя Фат  to  Everyone : Адель, спасибо! Ждем гайд!
+11:53:21 From  Elena Oborina  to  Everyone : Спасибо, всё понятно
+11:53:41 From  Vladislav Kozhemiakin  to  Everyone : Возможно я прослушал: что делаем с ребятами на парт-тайм?
+11:53:50 From  Баранова Ольга  to  Everyone : Чтобы через полгода сделать перфоманс ревью в это коммуникационное ревью нужно хорошо сформировать цели на ближайшие полгода и ожидания. 
+11:54:31 From  Баранова Ольга  to  Everyone : Сейчас в коммуникационном ревью про цели и ожидания говорим с командой? 
+11:56:48 From  Vladislav Kozhemiakin  to  Everyone : Встреча про цели и OKR очень нужна для всех, спасибо, Адель
+11:56:54 From  Максим Курепов  to  Everyone : +
+11:56:54 From  Баранова Ольга  to  Everyone : +
+11:57:17 From  Regina Shelest  to  Everyone : +
+11:58:59 From  Максим Курепов  to  Everyone : простите, я умираю — в коллайдере кто-то решил чаху раздуплить да кальдубасику попыхать
+11:59:08 From  Максим Курепов  to  Everyone : срочно нужно выбежать на улицу и подышать
+11:59:14 From  Максим Курепов  to  Everyone : спасибо большое, Адель!
+11:59:25 From  Максим Курепов  to  Everyone : всем пока
+11:59:35 From  Andrei Zaika  to  Everyone : :blackheart:
+11:59:53 From  Andrei Zaika  to  Everyone : Адель спасибо!
