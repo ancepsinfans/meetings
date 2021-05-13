@@ -1,0 +1,24 @@
+14:32:58 From  Mike Cole  to  Everyone : (content side)
+14:34:54 From  Anton Eremin  to  Everyone : Hi Dima
+14:35:02 From  Anton Eremin  to  Everyone : We’re getting to know each other
+14:35:13 From  Дмитрий Литовченко  to  Everyone : Hello guys
+14:46:32 From  Anton Eremin  to  Everyone : I remember Alex mentioned that such a project in a portfolio (even on heroku app) is a big bonus when applying to a Jon posting
+14:46:36 From  Anton Eremin  to  Everyone : Job*
+14:47:11 From  Anton Eremin  to  Everyone : Hey Danya, we’re going through bottom line points to cover top things
+14:47:46 From  Daniil Fedulov  to  Everyone : Hey!
+14:48:40 From  Anton Eremin  to  Everyone : Alex, do you think it should be an elective or a must-have course/skillset for everyone?
+14:57:38 From  Дмитрий Литовченко  to  Everyone : Sorry guys I have to go to another meeting. I’ll be back soon!
+14:57:43 From  Anton Eremin  to  Everyone : So it’s all for everyone
+15:09:58 From  Anton Eremin  to  Everyone : ППР — пришли, попиздели, разошлись
+15:10:49 From  Anton Eremin  to  Everyone : It’s an exact term Russian consulting firms use when auditing other companies’ efficiency of processes
+15:20:59 From  Daniil Fedulov  to  Everyone : Dima has just stolen my question :-)I think it is what defines a good team: when teammates shares their minds
+15:21:24 From  Mike Cole  to  Everyone : Mao Zedong Thought
+15:21:30 From  Дмитрий Литовченко  to  Everyone : I agree :)))
+15:22:19 From  Anton Eremin  to  Everyone : Alex’s presentation if anyone wants to skim through for more in-detail questions
+15:22:19 From  Anton Eremin  to  Everyone : https://docs.google.com/presentation/d/16G0fzh5lcmoUElDulBrssZREF401fioGWMM9NYLF88Q/edit?usp=sharing
+15:25:12 From  Anton Eremin  to  Everyone : Yandex developer interviews come to mind...
+15:25:59 From  Anton Eremin  to  Everyone : All those technical sections..
+15:29:34 From  Daniil Fedulov  to  Everyone : Yep, that sort of interview, highly debatable by applicants even in Russia
+15:42:39 From  Anton Eremin  to  Everyone : Biotech people can usually get up and running in like third of the time
+15:55:31 From  Daniil Fedulov  to  Everyone : Guys, gotta go to the next meeting. It was a pleasure to meet with you, Alex!
+15:55:43 From  Anton Eremin  to  Everyone : Thanks for joining in, Danya!

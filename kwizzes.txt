@@ -1,0 +1,70 @@
+15:00:59 From  Andrei Parfenov  to  Everyone : всем привет!
+15:01:08 From  Ирина Овечкина  to  Everyone : привет!
+15:01:14 From  Dmitriy Abbakumov  to  Everyone : Привет!
+15:01:15 From  Arman Isoyan  to  Everyone : Всем привет!
+15:01:44 From  Anastasia Riabova  to  Everyone : Привет!)
+15:01:58 From  Дмитрий Родин  to  Everyone : привет
+15:02:01 From  Alëna Zagorovskaya  to  Everyone : всем привет!
+15:02:11 From  Таня Каменская  to  Everyone : Привет, ребята)
+15:02:23 From  Sergey Parfenov  to  Everyone : Всем привет
+15:02:27 From  Valeria Solodnikova  to  Everyone : привет
+15:02:35 From  Елизавета Горбунова  to  Everyone : Привет!
+15:02:36 From  Daniil Fedulov  to  Everyone : Лиза, коньячок вроде есть
+15:02:41 From  Таня Каменская  to  Everyone : Боже, это же изумительно
+15:02:49 From  Diana Mi  to  Everyone : Коньячные четверги!
+15:02:51 From  Таня Каменская  to  Everyone : Собака в эфире
+15:02:53 From  Leo Fedorov  to  Everyone : Бультерьеры милашки))
+15:03:02 From  Elizaveta Titova  to  Everyone : Дань, а где коньяк?)))
+15:06:20 From  Sergey Parfenov  to  Everyone : Сделай меня хостом
+15:06:27 From  Sergey Parfenov  to  Everyone : Я буду добавлять
+15:06:31 From  Elizaveta Titova  to  Everyone : Да, перекинь на кого-то хост
+15:06:35 From  Elizaveta Titova  to  Everyone : чтобы тебе не мешали
+15:07:18 From  Елизавета Горбунова  to  Everyone : Все, порядок, всех пускаю)
+15:14:37 From  Zakhari Bullard  to  Everyone : а что если выше .9? тоже проблема, нет?
+15:14:52 From  Andrei Parfenov  to  Everyone : усреднённый студент определяется по предыдущим результатам?
+15:15:06 From  Ирина Овечкина  to  Everyone : какой оптимальный диапазон?
+15:15:27 From  Maria Merkushina  to  Everyone : И почему мы взяли порог 0.5?
+15:16:53 From  Ignat Khorolskiy  to  Everyone : Есть ли проблема, если у квиза вероятность правильного ответа сильно высокая? >0,9 к примеру
+15:20:40 From  Maria Merkushina  to  Everyone : В этих цифрах получается нет количества людей, которые не стали продолжать, если у них не получилось в первой попытки?
+15:25:28 From  Valeria Solodnikova  to  Everyone : интересно
+15:26:53 From  Bogdan Pilyavets  to  Everyone : мне кажется, что история не каузальная, но как прокси должна работать хорошо
+15:29:41 From  Andrey Pronin  to  Everyone : Получается, можно предполагать качество и беспроблемность когорты ?
+15:31:04 From  demenko.a  to  Everyone : В идеале конечно делать адаптивные сценарии обучения или давать для них дополнительный подготовительный модуль..
+15:31:26 From  Andrey Pronin  to  Everyone : Какую выборку надо для корректной гипотезы?
+15:31:45 From  Andrey Pronin  to  Everyone : сколько кейсов
+15:33:28 From  Andrey Pronin  to  Everyone : примерно какая погрешность?
+15:34:08 From  Alëna Zagorovskaya  to  Everyone : а если нет 300 студентов, а, допустим, есть только 50? и чтобы набрать 300 потребуется еще несколько месяцев
+15:34:26 From  Andrey Pronin  to  Everyone : тогда бубет погрешность 1000% )
+15:34:28 From  Andrey Pronin  to  Everyone : будет
+15:39:07 From  Elizaveta Titova  to  Everyone : Дима, а подскажи пожалуйста, текущая методика подходит только для квизов или для кодовых задач можно что-то подобное сделать тоже? (сниппеты и тренажерные задачи)
+15:39:21 From  Andrey Pronin  to  Everyone : А не может ли провал в вопросе показывать не проблему квиза, а недостаток учебного материала? Это можно как-то отследить?
+15:39:24 From  Elizaveta Titova  to  Everyone : О, ответ на слайде, поняла)))
+15:42:50 From  Andrey Pronin  to  Everyone : +
+15:42:50 From  Valeria Solodnikova  to  Everyone : +
+15:42:51 From  Zakhari Bullard  to  Everyone : +
+15:42:51 From  Uliana Bazhenova  to  Everyone : ++
+15:42:52 From  Arman Isoyan  to  Everyone : +
+15:42:52 From  Elizaveta Titova  to  Everyone : +++++
+15:42:52 From  Elizaveta Demchenko  to  Everyone : +
+15:42:53 From  Mikhail Ryzhenkov  to  Everyone : +
+15:42:53 From  Veronika K  to  Everyone : +++
+15:42:53 From  Sergey Parfenov  to  Everyone : +
+15:42:53 From  Ignat Khorolskiy  to  Everyone : +
+15:42:53 From  Maria Dybkina  to  Everyone : +
+15:42:53 From  Lusine Arsenian  to  Everyone : +
+15:42:54 From  Regina Shelest  to  Everyone : ++
+15:42:55 From  Andrei Parfenov  to  Everyone : +
+15:42:56 From  Diana Mi  to  Everyone : +
+15:42:56 From  Alexey Polevoy  to  Everyone : +++
+15:42:57 From  Maria Merkushina  to  Everyone : ++++
+15:42:59 From  Дмитрий Литовченко  to  Everyone : +
+15:43:13 From  Sergei Kotov (Y.Practicum)  to  Everyone : Дима, это была супер интересная информация! Спасибо большое
+15:43:39 From  Maria Merkushina  to  Everyone : Очень круто!!! было бы классно прийти к тому, чтобы затащить это в платформу!
+15:47:20 From  Ирина Овечкина  to  Everyone : спасибо большое!
+15:47:27 From  Sergey Parfenov  to  Everyone : Спасибо огромное!
+15:47:30 From  Regina Shelest  to  Everyone : Спасибо!!
+15:47:34 From  Uliana Bazhenova  to  Everyone : Спасибо!
+15:47:38 From  Дмитрий Литовченко  to  Everyone : Спасибо большое, очень круто и полезно!
+15:47:45 From  Olga P.  to  Everyone : Спасибо!
+15:47:57 From  Sergey Parfenov  to  Everyone : Я плюсую дико
+15:48:48 From  Anastasia Riabova  to  Everyone : Большое спасибо!)

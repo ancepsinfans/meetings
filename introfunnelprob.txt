@@ -1,0 +1,66 @@
+15:04:47 From  Zakhari Bullard  to  Everyone : Is marketing still doing ABCDX? I thought Lena was saying they were doing atwo-group model
+15:17:54 From  Andrey Melnichenko  to  Everyone : That was an example of an otval during the 1st sprint
+15:27:50 From  Andrey Melnichenko  to  Everyone : Could we model this experience w/ actual data - chapter names?
+15:29:15 From  Zakhari Bullard  to  Everyone : are we set up where we can A/B?
+15:29:22 From  Mike Cole  to  Everyone : no, hopefully in Q2
+15:29:33 From  Zakhari Bullard  to  Everyone : this really hurts us
+15:29:37 From  Mike Cole  to  Everyone : Andrey, I think that's the next step, yeah
+15:30:08 From  Sofia Mikheeva  to  Everyone : i don’t think that mere questions like «do you know…» won’t work, ppl can overestimate their skills
+15:30:32 From  Sofia Mikheeva  to  Everyone : these should be tasks maybe
+15:30:41 From  Zakhari Bullard  to  Everyone : Questions need to be like the chapter quizzes we have
+15:30:44 From  Andrey Melnichenko  to  Everyone : +666
+15:30:53 From  Andrey Melnichenko  to  Everyone : And tasks as well
+15:30:57 From  Mike Cole  to  Everyone : free experience: get some data, do a little work with it, plot it with seaborn
+15:31:12 From  Mike Cole  to  Everyone : we could adapt existing content
+15:31:16 From  Zakhari Bullard  to  Everyone : Is that a joke mike?
+15:31:17 From  Andrey Melnichenko  to  Everyone : But Anton's point is that we need a quicker solution
+15:31:40 From  Sofia Mikheeva  to  Everyone : + if we use tasks we can track the number of attempts to see whether they can be regard as «know it all’s»
+15:31:55 From  Sofia Mikheeva  to  Everyone : we can borrow placement tasks from free tracks actually
+15:32:12 From  Zakhari Bullard  to  Everyone : actually, a proper placement test doesn't allow for attempts
+15:32:16 From  Zakhari Bullard  to  Everyone : either right or wrong
+15:32:23 From  Andrey Melnichenko  to  Everyone : True
+15:32:42 From  Sofia Mikheeva  to  Everyone : you failed, go to robocats
+15:32:57 From  Andrey Melnichenko  to  Everyone : you failed, go to hell
+15:33:04 From  Zakhari Bullard  to  Everyone : I did several datacamp placements, there were a couple questions where I made a stupid mistake, but it's still wrong. and that's the right method
+15:35:19 From  Mike Cole  to  Everyone : 1-2 chapters, I say
+15:35:39 From  Mike Cole  to  Everyone : the NYC case study in the new free track is cool
+15:40:20 From  Anton Eremin  to  Everyone : That’s why we still need placement test
+15:40:46 From  Anton Eremin  to  Everyone : It’s just wouldn’t be a question of acquisition anymore
+15:41:59 From  Sofia Mikheeva  to  Everyone : and what if we make the program non-linear?
+15:42:11 From  Zakhari Bullard  to  Everyone : но
+15:42:13 From  Andrey Melnichenko  to  Everyone : Or non-binary
+15:42:13 From  Zakhari Bullard  to  Everyone : no
+15:42:27 From  Sofia Mikheeva  to  Everyone : it IS non-binary…
+15:42:39 From  Zakhari Bullard  to  Everyone : everything builds, we can't make it non-linear
+15:43:00 From  Sofia Mikheeva  to  Everyone : but if you already know shit, you don’t need to build………
+15:43:01 From  Mike Cole  to  Everyone : practicum: the only bootcamp that you do backwards
+15:43:23 From  Zakhari Bullard  to  Everyone : If you already know your shit, why are you studying with us?
+15:43:26 From  Sofia Mikheeva  to  Everyone : building shit piles
+15:43:56 From  Sofia Mikheeva  to  Everyone : to certify your knowledge, to get help im employment
+15:44:11 From  Andrey Melnichenko  to  Everyone : to get therapy
+15:44:30 From  Andrey Melnichenko  to  Everyone : oh, yeah, we CAN do shit
+15:46:49 From  Sofia Mikheeva  to  Everyone : so we should first and foremost decide which ft we choose
+15:49:04 From  Anton Eremin  to  Everyone : morefreetracks
+15:49:05 From  Anton Eremin  to  Everyone : https://miro.com/app/board/o9J_lJfrPJ4=/
+15:49:12 From  Anton Eremin  to  Everyone : Pass and link
+15:49:24 From  Mike Cole  to  Everyone : + good possibility
+15:49:27 From  Zakhari Bullard  to  Everyone : +
+15:49:33 From  Zakhari Bullard  to  Everyone : 21 days later was a good film
+15:52:04 From  Mike Cole  to  Everyone : would be good to sync with her
+15:52:59 From  Andrey Melnichenko  to  Everyone : yeah, but what are their reason not to buy our product?
+15:55:45 From  Andrey Melnichenko  to  Everyone : I think we can lose some registrations because ppl may be scared of such полное погружение right from the start
+15:55:53 From  Mike Cole  to  Everyone : - I've never worked with Python.- I know some Python, but I've never worked with pandas.- I've worked a bit with Python and pandas.…?
+15:56:06 From  Sofia Mikheeva  to  Everyone : maybe we should say what over free track covers, if the student knows it, they may skip it and go straight to the demo sprint
+15:56:19 From  Mike Cole  to  Everyone : yeah, self-assessment but with explicit references to material
+15:56:22 From  Sofia Mikheeva  to  Everyone : our free tarck*
+15:56:30 From  Sofia Mikheeva  to  Everyone : OUR
+15:57:04 From  Mike Cole  to  Everyone : next step: brainstorm possibilities for demo sprint
+15:57:17 From  Mike Cole  to  Everyone : and/or look at other places' free material
+15:57:32 From  Zakhari Bullard  to  Everyone : + к майку
+15:58:13 From  Sofia Mikheeva  to  Everyone : + it could be kind of a simple project based on dpp and eda at least as these are the most basic prerequisites
+15:58:44 From  Andrey Melnichenko  to  Everyone : Maybe some of GCS
+15:59:03 From  Andrey Melnichenko  to  Everyone : But less guided
+15:59:28 From  Mike Cole  to  Everyone : the NYC bit is a bit like that, yeah. also written by Chris
+15:59:51 From  Andrey Melnichenko  to  Everyone : Live coding session would work great
+16:00:18 From  Sofia Mikheeva  to  Everyone : (how are we going to test ittttt)
+16:00:25 From  Mike Cole  to  Everyone : fuck it, we'll do it live

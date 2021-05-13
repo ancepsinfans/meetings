@@ -1,0 +1,103 @@
+13:34:52 From  Anton Eremin  to  Everyone : Hang on
+13:36:16 From  Anton Eremin  to  Everyone : I still can’t hear you
+13:36:46 From  Dick Laurent  to  Everyone : i can’t hear either
+13:36:58 From  Dick Laurent  to  Everyone : i can only hear anton
+13:37:32 From  Mike Cole  to  Everyone : for real?
+13:37:38 From  Mike Cole  to  Everyone : maybe leave and come back
+13:37:39 From  Anton Eremin  to  Everyone : https://miro.com/app/board/o9J_lYhKSO8=/
+13:38:13 From  Dick Laurent  to  Everyone : i hear your voices but not loud enough
+13:38:21 From  Zakhari Bullard  to  Everyone : turn up your volume
+13:38:28 From  Dick Laurent  to  Everyone : it’s on max
+13:38:50 From  Andrey Melnichenko  to  Everyone : Maybe you need to restart your laptop, Dick
+13:39:39 From  Zakhari Bullard  to  Everyone : make sure that volume is up on your headphones and on your computer itself
+13:39:40 From  Andrey Melnichenko  to  Everyone : THAT NAPRAVLENIE
+13:40:35 From  Dick Laurent  to  Everyone : how do i manage volume on my headphones?
+13:41:35 From  Dick Laurent  to  Everyone : i’m going to reenter from my phone
+13:41:44 From  Anton Eremin  to  Everyone : ok
+13:51:02 From  Zakhari Bullard  to  Everyone : +
+13:54:25 From  Zakhari Bullard  to  Everyone : +
+13:56:43 From  pink muthafukka  to  Everyone : canada........
+13:56:51 From  Zakhari Bullard  to  Everyone : North American market
+13:56:59 From  Mike Cole  to  Everyone : let's hire mexicans
+13:57:04 From  Zakhari Bullard  to  Everyone : you already did
+13:57:06 From  Anton Eremin  to  Everyone : North American located
+13:57:17 From  pink muthafukka  to  Everyone : and Native Americans
+13:57:57 From  pink muthafukka  to  Everyone : noise?
+13:58:05 From  Andrey Melnichenko  to  Everyone : other countries are noise
+13:58:07 From  Andrey Melnichenko  to  Everyone : OKAY
+13:59:54 From  Mike Cole  to  Everyone : maybe not so much "native" as "with experience in the established bootcamp market"?
+14:00:12 From  Andrey Melnichenko  to  Everyone : Yeah, I agree w/ Mike
+14:00:19 From  Zakhari Bullard  to  Everyone : 'experience in the данное направление'
+14:08:57 From  Zakhari Bullard  to  Everyone : also true
+14:09:02 From  Mike Cole  to  Everyone : hopefully getting a test task today!
+14:09:08 From  Mike Cole  to  Everyone : well, "Tuesday"
+14:09:08 From  Zakhari Bullard  to  Everyone : nice!
+14:12:20 From  Anton Eremin  to  Everyone : This guest drafter behaves like a fly
+14:12:33 From  Andrey Melnichenko  to  Everyone : Or like a bird
+14:12:47 From  pink muthafukka  to  Everyone : sorry...
+14:13:15 From  Andrey Melnichenko  to  Everyone : It only flies awayAnd doesn't know where their soul is
+14:14:16 From  Mike Cole  to  Everyone : nelly furtado
+14:14:34 From  Andrey Melnichenko  to  Everyone : You got it, boy
+14:16:06 From  Zakhari Bullard  to  Everyone : that said, I'd also like to get it done
+14:16:32 From  Zakhari Bullard  to  Everyone : + k antonu
+14:16:41 From  pink muthafukka  to  Everyone : i think Anton M can help with ML and so on
+14:16:54 From  Zakhari Bullard  to  Everyone : that would be really helpful Alena
+14:17:09 From  Zakhari Bullard  to  Everyone : Again, your boy is wonderful
+14:17:24 From  pink muthafukka  to  Everyone : i mean what would be a better application of his skills
+14:18:00 From  Zakhari Bullard  to  Everyone : I'm not sure, I only know him in a limited capacity for now. Do you have something you'd rather him do?
+14:18:03 From  Mike Cole  to  Everyone : so maybe ask Alex to do a SQL deep-dive, compare with Dima's new course outline?
+14:18:07 From  Zakhari Bullard  to  Everyone : Don't let me monopolize him
+14:18:44 From  pink muthafukka  to  Everyone : let’s talk about it later
+14:18:54 From  Zakhari Bullard  to  Everyone : sure. just slide into my DMs
+14:19:28 From  Zakhari Bullard  to  Everyone : Mike, I agree that that should be Alex's first concern now that he's coming on board
+14:20:55 From  Mike Cole  to  Everyone : the only question is - what's next? if he agrees that Dima's plan is good, will we wait for the Russian side, or... ?
+14:21:16 From  Zakhari Bullard  to  Everyone : I think we can't trust the RU
+14:21:35 From  Zakhari Bullard  to  Everyone : They don't have an impulse to move
+14:21:36 From  pink muthafukka  to  Everyone : is Dima not going to write the course?
+14:21:36 From  Mike Cole  to  Everyone : I think things are different with Dima
+14:21:50 From  Zakhari Bullard  to  Everyone : If they are different, they will be different with him
+14:21:51 From  Mike Cole  to  Everyone : no, they're hiring a SQL writer now
+14:22:03 From  pink muthafukka  to  Everyone : the russians?
+14:22:11 From  Mike Cole  to  Everyone : yeah
+14:22:28 From  Andrey Melnichenko  to  Everyone : yeah, commies
+14:22:38 From  pink muthafukka  to  Everyone : a russian writer?
+14:23:22 From  Mike Cole  to  Everyone : yeah, it's going to be really gloomy and existential SQL
+14:23:36 From  pink muthafukka  to  Everyone : finally
+14:26:23 From  pink muthafukka  to  Everyone : we need a skill map
+14:26:28 From  Zakhari Bullard  to  Everyone : ++++++++++++++
+14:26:43 From  pink muthafukka  to  Everyone : and after every sprint we show where they are on that map
+14:26:44 From  Zakhari Bullard  to  Everyone : that's something that's been in my notes for a long time
+14:27:07 From  pink muthafukka  to  Everyone : do you care, Andrey?
+14:27:14 From  Zakhari Bullard  to  Everyone : checked out
+14:27:15 From  pink muthafukka  to  Everyone : do you even care???
+14:27:27 From  Mike Cole  to  Everyone : there was an attempt at a skill map in the new free course
+14:27:46 From  pink muthafukka  to  Everyone : key word attempt
+14:27:53 From  Zakhari Bullard  to  Everyone : can we include it in their main page or their lichniy kabinet
+14:28:16 From  pink muthafukka  to  Everyone : let’s ask Artemiy Lebedev to draw this map for us
+14:28:28 From  Mike Cole  to  Everyone : maybe, but it could involve platform adjustments, which don't happen quickly
+14:28:45 From  Zakhari Bullard  to  Everyone : also true
+14:30:52 From  Mike Cole  to  Everyone : I have a card on that
+14:30:57 From  Mike Cole  to  Everyone : light yellow
+14:31:00 From  Mike Cole  to  Everyone : well-hydrated
+14:31:08 From  Zakhari Bullard  to  Everyone : should be transparent
+14:31:19 From  Zakhari Bullard  to  Everyone : Join the 3L Club
+14:31:27 From  pink muthafukka  to  Everyone : transparent is bad, means you drank too much tea
+14:31:37 From  Mike Cole  to  Everyone : be nice to your kidney
+14:31:39 From  Mike Cole  to  Everyone : s
+14:33:09 From  Mike Cole  to  Everyone : + if we write this quarter, it should be rewrites
+14:33:25 From  Zakhari Bullard  to  Everyone : +
+14:35:34 From  Mike Cole  to  Everyone : sounds like we need more authors
+14:35:37 From  Mike Cole  to  Everyone : in general
+14:35:38 From  Zakhari Bullard  to  Everyone : yes
+14:35:46 From  Mike Cole  to  Everyone : i'll write Mariana
+14:35:57 From  Zakhari Bullard  to  Everyone : They don't have to alllll be EN
+14:36:26 From  Zakhari Bullard  to  Everyone : just to keep in mind
+14:37:44 From  Mike Cole  to  Everyone : we can do with Russian authors, but in general everything goes more smoothly with ENers
+14:37:52 From  Zakhari Bullard  to  Everyone : Agreed
+14:37:57 From  Zakhari Bullard  to  Everyone : just $$
+14:38:07 From  Mike Cole  to  Everyone : yeah
+14:39:00 From  Mike Cole  to  Everyone : Kirill/Anton? are they "content" people?
+14:39:28 From  pink muthafukka  to  Everyone : Anton is a content person
+14:39:33 From  pink muthafukka  to  Everyone : Kirill not so much
+14:39:42 From  Zakhari Bullard  to  Everyone : Anton is a satisfied person
+14:40:23 From  Anton Eremin  to  Everyone : Let’s have more authors then

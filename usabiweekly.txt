@@ -1,0 +1,47 @@
+19:02:20 From  Nuta Blinicheva  to  Everyone : Let’s wait for 2 minutes and start then
+19:04:50 From  Larisa Molodyk  to  Everyone : Super cute
+19:05:11 From  Nuta Blinicheva  to  Everyone : Yay ++
+19:06:05 From  Anna Makeeva  to  Everyone : https://www.practicum.blog/
+19:07:31 From  Polina Anisimova  to  Everyone : Is it possible to create quizzes there? ^_^
+19:09:49 From  Larisa Molodyk  to  Everyone : How many newsletter subscribers do we have btw? (Just curious :---)
+19:14:26 From  Nuta Blinicheva  to  Everyone : Larisa, there are about 2000 active readers from 30 000 subscribers base
+19:16:36 From  Larisa Molodyk  to  Everyone : Cool! It’s quite a media!)
+19:16:39 From  Oksana Matveenko  to  Everyone : where did we get those 30 000?
+19:17:41 From  Oksana Matveenko  to  Everyone : I mean who does it consist of 
+19:18:16 From  Nuta Blinicheva  to  Everyone : Intro course students + Scholarships + Webinars
+19:18:31 From  Mariya Gordienko  to  Everyone : Who is writing materials now? Are we going to increase the number of authors?
+19:18:52 From  Anna Makeeva  to  Everyone : Maria, yes! We’re hiring now
+19:19:05 From  Anna Makeeva  to  Everyone : *Mariya - sorry
+19:19:08 From  Oksana Matveenko  to  Everyone : Cool, thanks, Nuta
+19:20:24 From  Anastasia Cherepanova  to  Everyone : Thanks Anya! This is stunning!!
+19:20:32 From  Maria Shchur  to  Everyone : ❤️❤️
+19:21:12 From  Anna Makeeva  to  Everyone : Thanks, guys!
+19:30:25 From  Mariya Gordienko  to  Everyone : What are our next steps? What are we going to do with this knowledge?
+19:32:41 From  Polina Anisimova  to  Everyone : Analytics team just announced they’re going to collect regularity data on free track, which is also would be interesting to combine with segments
+19:34:41 From  Polina Anisimova  to  Everyone : Thank you Lena!
+19:34:52 From  Anna Makeeva  to  Everyone : Well-done, Lena!
+19:35:13 From  Jayde Spooner  to  Everyone : Great as usual, Elena!
+19:36:07 From  Larisa Molodyk  to  Everyone : extreme
+19:36:09 From  Elena Chernovich  to  Everyone : Thanks!!
+19:37:23 From  Polina Anisimova  to  Everyone : Are you discussed this with growth team? An hour ago they had a talk about similar experiment idea (I mean deleting free track and making the trial)
+19:37:54 From  Polina Anisimova  to  Everyone : I feel like we’d benefit from synchronizing with the growth team in this
+19:38:13 From  Polina Anisimova  to  Everyone : They’re writing about it in growth_team Slack channel
+19:39:13 From  Polina Anisimova  to  Everyone : *Did you
+19:46:09 From  Mariya Gordienko  to  Everyone : Will we have something similar to a ‘call-center’, like in Russia? There are thoughts that this could be good in the USA
+19:46:55 From  Mike Cole  to  Everyone : who makes final decisions on free tracks? marketing or the departments? (this isn't a challenge, just so it's clear)
+19:48:28 From  Polina Anisimova  to  Everyone : I mean it looks like Gleb have a strong ideas about this experiment mechanics :) Maybe we can gain something from them :D
+19:49:12 From  Tanya D  to  Everyone : Sorry, I have a question
+19:49:16 From  Tanya D  to  Everyone : Can I ask?
+19:50:39 From  Elena Chernovich  to  Everyone : I also wanted to ask Jayde and Ann how the women who code workshop went yesterday)
+19:50:59 From  Polina Anisimova  to  Everyone : What do you think about us focusing separately on free track CR and full course CR? I’m concerned a bit since it feels like free track is actually not separate product but very important part of the main product. Maybe you, Anton and Andrew had some discussions or plans in changing it?
+19:52:06 From  Mariya Gordienko  to  Everyone : And it seems to me a cool idea to admit to the intro course only those who did not pass the test for the minimum level of knowledge
+19:52:07 From  Anna Makeeva  to  Everyone : Lena, I was going to ask whether I can share the news on it if we have got time! It went very well by the way :) We had about 50 people for the whole hour which seems to be not too bad. Jayde was a great host
+19:54:49 From  Iuliia Fokina  to  Everyone : +
+19:57:29 From  Maria Kovaleva  to  Everyone : I have a one more question about deleting free course: what about the content - it will be in the first sprint? We’ve almost finished refactoring of the first sprint. So we should do the refactoring one more time?
+19:58:37 From  Ramil  to  Everyone : Sry, folks. Gotta go, got a consultation with the student in two min. Thanks for this one, it was very helpful and interesting. Bye and have a great one!
+19:59:24 From  Mike Cole  to  Everyone : me too, have to run. thanks!
+20:02:03 From  Anastasia Cherepanova  to  Everyone : Thanks a lot!!
+20:02:09 From  Polina Anisimova  to  Everyone : Thaaaaanks!
+20:02:09 From  Anna Makeeva  to  Everyone : Thanks!
+20:02:10 From  Zakhari Bullard  to  Everyone : thanks guys!
+20:02:11 From  Larisa Molodyk  to  Everyone : Thanks!!!
